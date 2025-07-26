@@ -1,17 +1,13 @@
 # Hello, I'm Sunish Mannuel
 <a href="https://www.linkedin.com/in/sunishmannuel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a seasoned IT professional with over 17 yrs of experience in a wide range of technologies and domains like Networking, Cloud, Virtualization, Security and Financial markets. My recent passion has been in the field of Cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My skills in the field of technology and an inquisite mind towards problem solving, critical thinking has driven me to develop a passion for cybersecurity lately, and I am now eager to transition into this field and develop my skills in this domain eventually moving into cloud security. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +19,6 @@ My skills in the field of technology and an inquisite mind towards problem solvi
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +41,7 @@ My skills in the field of technology and an inquisite mind towards problem solvi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
