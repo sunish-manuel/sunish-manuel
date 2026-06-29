@@ -112,10 +112,8 @@ SIEM           Microsoft Sentinel · Splunk · Elastic
 ![ITIL v4](https://img.shields.io/badge/ITIL_v4-Foundation-purple?style=flat)
 ![SCP](https://img.shields.io/badge/SCP-Certified_Support_Manager-blue?style=flat)
 ![KT](https://img.shields.io/badge/Kepner_Tregoe-Certified-orange?style=flat)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat)
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat&logo=google)
-![CDSA](https://img.shields.io/badge/HTB-CDSA-9cf?style=flat)
+
 
 ---
 
